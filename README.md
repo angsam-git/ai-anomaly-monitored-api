@@ -12,7 +12,7 @@ https://github.com/angsam-git/flink-anomaly-detection
 
 ## Features
 
-- Exposes REST endpoints (e.g., `/users`, `/orders`)
+- Exposes REST endpoints (e.g. `/users`, `/orders`)
 - Publishes API access logs to a Kafka topic
 - Integrates with an anomaly detection pipeline
 - Container-ready for Docker-based deployments
