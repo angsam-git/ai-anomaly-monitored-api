@@ -6,7 +6,7 @@ This is the **Spring Boot API application** being monitored by an AI-powered ano
 
 ## Dependencies
 
-Kafka, flink, and the pytorch model must be running to consume logs from this app.
+Kafka, Flink, and the PyTorch model must be running to consume logs from this app.
 
 https://github.com/angsam-git/flink-anomaly-detection
 
