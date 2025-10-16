@@ -9,4 +9,5 @@ public class AIMonitoredAPIApplication {
     public static void main(String[] args) {
         SpringApplication.run(AIMonitoredAPIApplication.class, args);
     }
+
 }

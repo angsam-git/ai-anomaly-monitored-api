@@ -36,4 +36,5 @@ public class KafkaLogProducerService {
             logger.error("Failed to send log to Kafka", e);
         }
     }
+
 }
