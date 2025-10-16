@@ -36,4 +36,5 @@ public class OrderResponse {
     public void setAmount(double amount) {
         this.amount = amount;
     }
+
 }

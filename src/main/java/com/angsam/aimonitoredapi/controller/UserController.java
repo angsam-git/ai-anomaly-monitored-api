@@ -126,4 +126,5 @@ public class UserController {
 
         kafkaLogProducerService.sendLog(logEntry);
     }
+
 }
