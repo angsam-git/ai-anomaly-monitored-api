@@ -10,11 +10,14 @@ Kafka, Flink, and the PyTorch model must be running to consume logs from this ap
 
 https://github.com/angsam-git/flink-anomaly-detection
 
+React UI to view realtime results located at https://github.com/angsam-git/ai-anomaly-ui
+
 ## Features
 
 - Exposes REST endpoints (e.g. `/users`, `/orders`)
 - Publishes API access logs to a Kafka topic
 - Integrates with an anomaly detection pipeline
+- Retrieves enriched logs via REST API for historical logs and websocket for realtime delivery to client
 - Container-ready for Docker-based deployments
 
 ## Build & Run
